@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="E:/idea-project/asd"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.519">
+  <properties />
+  
+  
+            <testcase name="feature" time="23.511" classname="steps_defination.RunTests" />
+                <testcase name="feature" time="0.008" classname="steps_defination.RunTests" />
+      
+</testsuite>
